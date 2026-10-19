@@ -45,7 +45,7 @@ Currently at **TCS iON**, I work on enterprise CMS/DAM platforms and a large-sca
 
 | Database | DevOps / Tools | Security & Performance |
 |----------|----------------|------------------------|
-| <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" alt="PostgreSQL"/></a><br><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" alt="MySQL"/></a> | <a href="https://railway.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="30" height="30" alt="Railway"/></a><br><a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" height="30" alt="Vercel"/></a><br><a href="https://jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original-wordmark.svg" width="28" height="28" alt="Jenkins"/></a><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28" alt="Postman"/> | SonarQube · SAST/DAST · CVE Remediation · Lighthouse Optimization · SEO Best Practices |
+| <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" alt="PostgreSQL"/></a><br><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" alt="MySQL"/></a> | <a href="https://railway.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="30" height="30" alt="Railway"/></a><br><a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" height="30" alt="Vercel"/></a><br><a href="https://jenkins.io/" target="_blank"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="28" height="28" alt="Jenkins"/></a><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28" alt="Postman"/> | SonarQube · SAST/DAST · CVE Remediation · Lighthouse Optimization · SEO Best Practices |
 
 ---
 
@@ -132,7 +132,7 @@ Large-scale production banking system — resolving critical production defects,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-746&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Aman-746&label=Profile%20views&color=0e75b6&style=flat-square&start=2000" alt="Profile views"/>
 </p>
 
 ---
@@ -172,7 +172,7 @@ I'm available for **freelance projects, contract work, and full-time roles** as 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-746&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Aman-746&label=Profile%20views&color=0e75b6&style=flat-square&start=2000" alt="Profile views"/>
 </p>
 
 <details>
