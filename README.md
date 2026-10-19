@@ -8,14 +8,20 @@
   <a href="mailto:aman04012000@gmail.com?subject=Hiring%20-%20Full%20Stack%20Developer">
     <img src="https://img.shields.io/badge/Email-aman04012000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" height="34"/>
   </a>
-  <a href="https://www.linkedin.com/in/<YOUR_LINKEDIN_USERNAME>/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-<YOUR_LINKEDIN_USERNAME>-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" height="34"/>
+  <a href="https://www.linkedin.com/in/aman-kumar-41090a200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-aman--kumar--41090a200-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" height="34"/>
   </a>
   <a href="https://github.com/Aman-746" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Aman-746-171525?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" height="34"/>
   </a>
-  <a href="https://leetcode.com/u/<YOUR_LEETCODE_USERNAME>/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-320%2B%20solved-FF9F1C?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827" alt="LeetCode" height="34"/>
+  <a href="https://leetcode.com/u/amandn/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-amandn-FF9F1C?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827" alt="LeetCode" height="34"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/amandn/" target="_blank">
+    <img src="https://github-readme-leetcode-stats.vercel.app/api?username=amandn&show_icons=true&include_all_completed=true&border_radius=8" alt="LeetCode Stats" height="110"/>
   </a>
 </p>
 
@@ -110,7 +116,7 @@ Large-scale production banking system — resolving critical production defects,
 
 | 🟨 LeetCode | 🟧 CodeChef | 🟥 HackerRank |
 |-------------|-------------|---------------|
-| **320+ problems**<br><sup>Max Rating 1583</sup> | **3★**<br><sup>Max Rating 1662</sup> | **5★**<br><sup>Max Rating 1692</sup> |
+| **amandn**<br><sup>Live stats above</sup> | **3★**<br><sup>Max Rating 1662</sup> | **5★**<br><sup>Max Rating 1692</sup> |
 
 <p align="center">
   <a href="https://github.com/Aman-746">
@@ -143,12 +149,16 @@ I'm available for **freelance projects, contract work, and full-time roles** as 
   <a href="mailto:aman04012000@gmail.com?subject=Hiring%20-%20Full%20Stack%20Developer">
     <img src="https://img.shields.io/badge/Hire_Me-Contact_Now-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="38"/>
   </a>
-  <a href="https://www.linkedin.com/in/<YOUR_LINKEDIN_USERNAME>/" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-kumar-41090a200/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="38"/>
   </a>
   <a href="https://github.com/Aman-746" target="_blank">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-171525?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="38"/>
   </a>
+</p>
+
+<p align="center">
+  📧 aman04012000@gmail.com &nbsp;•&nbsp; 📱 +91-7462933412 &nbsp;•&nbsp; 🇮🇳 India
 </p>
 
 ---
@@ -158,19 +168,12 @@ I'm available for **freelance projects, contract work, and full-time roles** as 
 </p>
 
 <p align="center">
-  <b>Aman Kumar</b> · Java Backend Developer | Full Stack Developer | AI Engineer<br>
-  📧 aman04012000@gmail.com · 📱 +91 7462933412 · 🇮🇳 India
+  <b>Aman Kumar</b> · Java Backend Developer | Full Stack Developer | AI Engineer
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aman-746&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
-
-<!-- SEO keywords -->
-<picture>
-  <source media="(prefers-color-scheme: dark)">
-  <img src="https://user-images.githubusercontent.com/7303156/88475483-d7a8b500-cf57-11ea-8860-4570a7378f60.gif" width="1" height="1" alt="">
-</picture>
 
 <details>
   <summary>🔍 Search terms</summary>
